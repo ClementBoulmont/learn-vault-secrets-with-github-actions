@@ -9,6 +9,7 @@ Simple API Python avec un endpoint type Hello World.
 
 ## Utilisation de Vault Secrets avec GitHub Actions
 
+
 L'intégration de Vault Secrets avec GitHub est hyper facile car 100% managée (partenariat GitHub / Vault).
 
 ### STEP 01: Créer un compte Docker Hub
