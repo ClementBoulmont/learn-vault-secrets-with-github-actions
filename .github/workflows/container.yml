@@ -33,6 +33,3 @@ jobs:
           tags: ${{ secrets.DOCKER_HUB_USERNAME }}/helloworld:latest  # <- maybe adapt here (2)
 
 
-
-
-          
